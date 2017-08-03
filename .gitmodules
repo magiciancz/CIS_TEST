@@ -1,1 +1,4 @@
 
+[submodule "CIS_TEST/CIS_IAPManagerSDKs"]
+	path = CIS_TEST/CIS_IAPManagerSDKs
+	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
