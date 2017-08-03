@@ -1,15 +1,1 @@
-[submodule "CIS_TEST/CIS_IAPManagerSDKs/CIS_IAPManagerSDKs"]
-	path = CIS_TEST/CIS_IAPManagerSDKs/CIS_IAPManagerSDKs
-	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
-[submodule "CIS_IAPManagerSDKs"]
-	path = CIS_IAPManagerSDKs
-	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
-[submodule "CIS_TEST/Assets/CIS_IAPManagerSDKs"]
-	path = CIS_TEST/Assets/CIS_IAPManagerSDKs
-	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
-[submodule "CIS_TEST/CIS_TEST/Assets/CIS_IAPManagerSDKs"]
-	path = CIS_TEST/CIS_TEST/Assets/CIS_IAPManagerSDKs
-	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
-[submodule "CIS_TEST/CIS_IAPManagerSDKs"]
-	path = CIS_TEST/CIS_IAPManagerSDKs
-	url = https://caozhao@developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git
+
