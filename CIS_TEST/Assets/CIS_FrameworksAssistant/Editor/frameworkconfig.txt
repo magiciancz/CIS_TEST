@@ -1,0 +1,81 @@
+{
+    "list": [
+        {
+            "name": "CIS_FrameworksAssistant",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_FrameworksAssistant.git",
+            "sdkname":"",
+            "sdkgitURL":"",
+            "description": ""
+        },
+        {
+            "name": "CIS_Support",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_Support.git",
+            "sdkname":"CommonSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CommonSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_AdManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_AdManager.git",
+            "sdkname":"CIS_AdManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_AdManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_AnalyticsManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_AnalyticsManager.git",
+            "sdkname":"CIS_AnalyticsManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_AnalyticsManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_IAPManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_IAPManager.git",
+            "sdkname":"CIS_IAPManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_IAPManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_LoginManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_LoginManager.git",
+            "sdkname":"CIS_LoginManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_LoginManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_SocialManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_SocialManager.git",
+            "sdkname":"CIS_SocialManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_SocialManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_HotUpdateManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_HotUpdateManager.git",
+            "sdkname":"CIS_HotUpdateManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_HotUpdateManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_NotificationManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_NotificationManager.git",
+            "sdkname":"CIS_NotificationManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_NotificationManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_SMSManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_SMSManager.git",
+            "sdkname":"CIS_SMSManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_SMSManagerSDKs.git",
+            "description": ""
+        },
+        {
+            "name": "CIS_SupplementaryManager",
+            "gitURL": "https://developer.coconut.is:3737/git/CIS_SupplementaryManager.git",
+            "sdkname":"CIS_SupplementaryManagerSDKs",
+            "sdkgitURL":"https://developer.coconut.is:3737/git/CIS_SupplementaryManagerSDKs.git",
+            "description": ""
+        }
+    ]
+}
